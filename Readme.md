@@ -253,3 +253,12 @@ YouTube (for learning and implementation tutorials)
 AI Tools Used
 Google Gemini API
 OCR (Optical Character Recognition)
+
+
+What Makes Skill Vault Different?
+Skill Vault is not just a certificate storage platform. It acts as a digital academic identity that grows with the student throughout their learning journey.
+It helps students:
+Organize achievements in one place.
+Automatically identify skills using AI.
+Build a resume without entering the same information repeatedly.
+Share one verified profile instead of multiple certificates.
