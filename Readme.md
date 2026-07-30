@@ -82,3 +82,52 @@ Minimizes errors while filling student profiles.
 Saves time for students.
 Makes achievements easy to verify and present.
 Provides a structured academic portfolio for placements.
+
+Implementation Process
+1. User Registration & Login
+Students create an account and log in securely using Firebase Authentication.
+2. Certificate Upload
+Students upload certificates from workshops, internships, hackathons, online courses, or college events.
+3. OCR Processing
+The OCR module scans the uploaded certificate and extracts important details such as:
+Course Name
+Organization
+Date of Completion
+Certificate ID
+4. AI Analysis
+The Gemini API analyzes the extracted data to:
+Identify skills gained
+Categorize the certificate
+Organize information into a structured format
+5. Data Storage
+The processed information is securely stored in MongoDB, while the original certificate is stored in Firebase Storage.
+6. Student Passport Generation
+The student's profile is automatically updated with verified achievements, extracted skills, and certificates.
+7. Resume & Profile Sharing
+Students can generate a resume and share their Student Passport through a single secure link with recruiters or placement teams.
+Implementation Workflow
+Student Login
+      │
+      ▼
+Upload Certificate
+      │
+      ▼
+OCR Extracts Text
+      │
+      ▼
+Gemini API Analyzes Data
+      │
+      ▼
+Store Data in MongoDB
+      │
+      ▼
+Update Student Passport
+      │
+      ▼
+Generate Resume & Share Profile
+Benefits of This Process
+Simple and easy to use.
+Reduces manual effort.
+Organizes certificates automatically.
+Keeps student data secure.
+Makes sharing achievements quick and convenient.
