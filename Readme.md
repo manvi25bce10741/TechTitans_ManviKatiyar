@@ -48,3 +48,37 @@ Secure cloud-based infrastructure.
 Supports AI-powered automation.
 Scalable for thousands of users.
 Provides a smooth experience for both students and recruiters.
+
+Methodology
+Step 1 – Student Registration
+The student signs in securely using their email and creates a personal Skill Vault account.
+Step 2 – Certificate Upload
+The student uploads certificates earned from workshops, hackathons, internships, online courses, or college events.
+Step 3 – Data Extraction
+OCR scans the certificate and extracts important information such as the course name, issuing organization, date of completion, and certificate ID.
+Step 4 – AI Processing
+The Gemini API analyzes the extracted data, identifies relevant skills, and organizes the information into the student's profile.
+Step 5 – Profile Generation
+The verified achievements are added to the Student Passport, where they are displayed in a structured and easy-to-read format.
+Step 6 – Resume & Sharing
+Students can generate a resume based on their verified achievements and share their Student Passport with recruiters through a single profile link.
+Methodology Flow
+Student Login
+       ↓
+Upload Certificate
+       ↓
+OCR Extracts Data
+       ↓
+Gemini API Analyzes Information
+       ↓
+Student Passport Updated
+       ↓
+Resume Generated
+       ↓
+Share with Recruiters
+Why This Method?
+Reduces manual data entry.
+Minimizes errors while filling student profiles.
+Saves time for students.
+Makes achievements easy to verify and present.
+Provides a structured academic portfolio for placements.
