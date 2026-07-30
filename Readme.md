@@ -233,3 +233,23 @@ Our Approach:
 Optimize API usage and explore alternative AI solutions as the platform grows.
 Conclusion
 Every new idea faces challenges in its early stages. However, with continuous improvements, user feedback, and collaboration with educational institutions, Skill Vault has the potential to become a trusted digital platform for managing student achievements.
+
+References
+Official Documentation
+React.js Documentation – https://react.dev
+Firebase Documentation – https://firebase.google.com/docs
+MongoDB Documentation – https://www.mongodb.com/docs
+Google AI (Gemini API) Documentation – https://ai.google.dev
+Tesseract OCR Documentation – https://tesseract-ocr.github.io
+Design & UI Inspiration
+Figma Community
+Dribbble
+Behance
+Research & Learning Resources
+Google Developer Documentation
+MDN Web Docs
+Stack Overflow
+YouTube (for learning and implementation tutorials)
+AI Tools Used
+Google Gemini API
+OCR (Optical Character Recognition)
