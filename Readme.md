@@ -131,3 +131,35 @@ Reduces manual effort.
 Organizes certificates automatically.
 Keeps student data secure.
 Makes sharing achievements quick and convenient.
+
+Feasibility Analysis
+Can the solution be realistically built?
+Yes. Skill Vault is built using technologies that are widely used in modern web development. Our chosen tools support secure data storage, AI integration, and cloud-based services, making the solution practical and achievable.
+Resources Required
+Technology
+React.js for the user interface
+Firebase for authentication and cloud storage
+MongoDB for managing student data
+OCR and Gemini API for certificate analysis
+Human Resources
+Frontend Developer
+Backend Developer
+Database Developer
+AI Integration Developer
+UI/UX Designer
+Infrastructure
+Internet connection
+Cloud hosting
+API access for AI services
+Why is this solution practical?
+Most colleges and students already use digital certificates.
+No additional hardware is required.
+The platform can be accessed from anywhere with an internet connection.
+Students can start using it with minimal learning.
+The system can grow easily as the number of users increases.
+Expected Outcome
+A single digital profile for all student achievements.
+Faster resume preparation.
+Better organization of certificates.
+Easier verification for recruiters and placement cells.
+Reduced time spent searching for academic records.
