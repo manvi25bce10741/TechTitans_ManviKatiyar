@@ -163,3 +163,22 @@ Faster resume preparation.
 Better organization of certificates.
 Easier verification for recruiters and placement cells.
 Reduced time spent searching for academic records.
+
+Strategies to Overcome Challenges
+Challenge	                                   Our Strategy
+Incorrect data extraction from certificates	Allow students to review and edit extracted information before saving it.
+Different certificate formats             	Train the OCR and AI modules to handle multiple layouts and support common certificate templates.
+Data security and privacy	                     Use secure authentication, encrypted storage, and role-based access to protect user information.
+Large number of users	                     Use cloud-based services that can scale as more students and institutions join the platform.
+User adoption                             	Keep the interface simple and provide clear guidance so students can start using the platform without difficulty.
+Risk Mitigation
+Regularly back up student data.
+Verify important information before adding it to the Student Passport.
+Test the platform with different certificate formats.
+Monitor system performance and fix issues quickly.
+Collect user feedback to improve future versions.
+Future Improvements
+Improve AI accuracy with more training data.
+Add support for certificates in multiple languages.
+Integrate directly with universities and certification platforms.
+Introduce blockchain-based certificate verification for added trust.
