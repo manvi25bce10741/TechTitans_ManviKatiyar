@@ -206,3 +206,30 @@ Can be adopted by multiple colleges and universities.
 Has the potential to grow into a nationwide digital student achievement platform.
 Why Skill Vault Makes a Difference
 Unlike traditional document storage platforms, Skill Vault doesn't just store certificates—it understands them. By combining AI with a Digital Student Passport, it transforms scattered achievements into a structured profile that supports students throughout their academic and professional journey.
+
+Why This Idea May Face Challenges
+1. Low User Adoption
+If students continue using traditional methods like Google Drive or folders, they may not immediately see the value of switching to a Student Passport.
+Our Approach:
+Create a simple and user-friendly interface.
+Highlight the benefits of having one verified profile for placements and internships.
+2. Accuracy of AI Results
+OCR and AI may sometimes extract incorrect information from certificates with poor image quality or uncommon formats.
+Our Approach:
+Allow students to review and edit the extracted details before saving.
+Continuously improve the AI model using feedback.
+3. Privacy and Data Security
+Students may hesitate to upload personal certificates if they are unsure about data security.
+Our Approach:
+Use secure authentication and encrypted cloud storage.
+Give users full control over who can view or share their profile.
+4. Integration with Institutions
+The platform becomes more valuable if colleges and organizations adopt it. Without institutional support, growth may be slower.
+Our Approach:
+Begin with individual student users and later collaborate with colleges, placement cells, and training organizations.
+5. Dependence on External AI Services
+The platform relies on AI APIs for certificate analysis, which may involve usage limits or service interruptions.
+Our Approach:
+Optimize API usage and explore alternative AI solutions as the platform grows.
+Conclusion
+Every new idea faces challenges in its early stages. However, with continuous improvements, user feedback, and collaboration with educational institutions, Skill Vault has the potential to become a trusted digital platform for managing student achievements.
